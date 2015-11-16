@@ -1,0 +1,23 @@
+name: Jill
+favicon: null
+layout_spectrum: 0.3291206487920135
+typography_spectrum: 0.37925152853131294
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8236616633366793
+  lightness: 0.15201297821477056
+  saturation: 0.3849201591219753
+  rhythmicContrast: 0.40293521131388843
+purpose: []
